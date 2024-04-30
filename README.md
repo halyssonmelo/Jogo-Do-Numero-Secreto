@@ -41,6 +41,6 @@ Durante o projeto, os seguintes conceitos foram explorados:
 
 **Lembrete Importante:** Ao abrir o link, é necessário clicar em "Allow" para permitir a transição dos textos contidos na página em forma de áudio, garantindo uma experiência completa e acessível para todos os jogadores.
 
-Divirta-se tentando adivinhar o número secreto! Clique [aqui](link_do_seu_projeto) para jogar.
+Divirta-se tentando adivinhar o número secreto! Clique [aqui](https://jogo-do-numero-secreto-khaki-two.vercel.app/) para jogar.
 
-Apreciamos sua participação! 😊
+Obrigado! 😊
