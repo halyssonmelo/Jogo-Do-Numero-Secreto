@@ -3,6 +3,15 @@
 Este projeto em JavaScript, HTML e CSS foi desenvolvido durante o curso de Lógica de Programação da Alura. É um jogo simples onde o desafio é acertar o número secreto escolhido aleatoriamente pelo sistema, variando de 1 a 10.
 
 
+## Como Jogar 🎲
+
+**Lembrete Importante:** Ao abrir o link, é necessário clicar em "Allow" para permitir a transição dos textos contidos na página em forma de áudio, garantindo uma experiência completa e acessível para todos os jogadores.
+
+Divirta-se tentando adivinhar o número secreto! Clique [aqui](https://jogo-do-numero-secreto-khaki-two.vercel.app/) para jogar.
+
+Obrigado! 😊
+
+
 ## Funcionalidades 🎮
 
 - **Mensagens Interativas**: Exibição de mensagens dinâmicas na tela para guiar o jogador durante o jogo.
@@ -36,11 +45,3 @@ Durante o projeto, os seguintes conceitos foram explorados:
 - **Manipulação de Listas**: Utilização de métodos como `push` e `includes` para manipular listas de dados em JavaScript, permitindo armazenar e gerenciar informações de forma dinâmica durante o jogo.
 
 - **Utilização do Live Server no VSCode**: Aprendizado sobre como utilizar a extensão Live Server no VSCode para desenvolvimento web, permitindo visualizar as alterações em tempo real no navegador durante a codificação, facilitando o processo de desenvolvimento e testes.
-
-## Como Jogar 🎲
-
-**Lembrete Importante:** Ao abrir o link, é necessário clicar em "Allow" para permitir a transição dos textos contidos na página em forma de áudio, garantindo uma experiência completa e acessível para todos os jogadores.
-
-Divirta-se tentando adivinhar o número secreto! Clique [aqui](https://jogo-do-numero-secreto-khaki-two.vercel.app/) para jogar.
-
-Obrigado! 😊
